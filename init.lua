@@ -3,7 +3,7 @@
 
 -- Global Variables (Modify for your network)
 ssid = "w16"
-pass = "90000000"
+pass = ""
 
 
 -- Byline
