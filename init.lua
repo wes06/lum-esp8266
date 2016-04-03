@@ -1,11 +1,6 @@
 -- init.lua --
 
 
--- Global Variables (Modify for your network)
-ssid = "w16"
-pass = ""
-
-
 -- Byline
 print('\nAllAboutCircuits.com NodeMCU Example\n')
 
