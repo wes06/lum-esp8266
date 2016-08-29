@@ -1,8 +1,1 @@
-#Project Name
-
-TODO: Write a project description
-
-## Usage
-
-TODO: Write usage instructions
-
+Experimentation on implementing web-I2C control with lua on ESP8266. I ended up choosing to separate i2c from the webserver function, so ESP8266 now does web-serial, and a local Atmega running Arduino bootloader handles animations via i2c locally.
